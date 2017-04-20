@@ -1,0 +1,17 @@
+Note: 
+1. Pada soal nomor 1, saya hanya membuat sebuah form input di formulir.php dengan native php (tanpa framework)
+2. Pada soal nomor 2 saya membuat API dengan format input berupa string XML dengan framework CI 3, saya mengujinya
+	menggunakan postman
+3. Catatan saya, untuk nomor 2 walaupun saya menggunakan CI saya tidak terlalu memperhatikan konsep MVCnya,
+   saya hanya membuat controller REST, dan controller itu juga yang langsung mengakses database (tanpa model).
+   sepahaman saya tugas ini hanya implementasi API dengan GET dan POST, pada GET saya hanya mengeluarkan string
+   XML yang disediakan di soal(bukan menampilkan data dari database). Pada POST dengan inputan XML dapat di uji 
+   menggunakan postman.
+4. Sebenarnya membuat API dengan framework CI kurang efisien, 
+   lebih baik menggunakan microframework seperti SLIM atau phalcon, namun saya belum pernah membuat API dengan format XML
+   jadi saya menggunakan framework yang cukup familiar dengan saya yaitu CI.
+   link url untuk mencobanya: http://localhost:1717/rest/index.php/rest jika port localhost berbeda, dapat di ubah dulu
+   di base_url sebelum melakukan ujicoba
+	
+	
+Terimakasih
