@@ -1,0 +1,25 @@
+Soal Java
+
+1. Rancanglah sebuah diagram kelas (class diagram) untuk suatu kasus registrasi hotel sebagai berikut:
+- Hotel itu memiliki jenis pemesanan kamar berupa harian (per hari atau 23 jam) dan short time (per 3 jam)
+- Setiap pemesanan dapat memiliki lebih dari 1 kamar
+- Setiap pemesanan hanya dapat memiliki 1 pelanggan
+- Pemesanan kamar yang terealisasi menjadi check in
+- Check in yang sudah selesai ditandai dengan check out
+- Pembayaran dapat dilakukan setelah check in dan/atau setelah check out
+
+Petunjuk: 
+- Dalam merancang diagram ini, Anda boleh menggunakan alat desain yang cocok untuk Anda, seperti: Visual Paradigm, Sofware Ideas Modeller, Visio, dan sebagainya.
+- Anda diwajibkan memasukkan/mengunggah/meng-upload ke github: 
+* file proyek Anda (dari tools yang Anda gunakan itu) tanpa dikompresi
+* file gambar hasil ekspor dari proyek desain Anda (dari tools yang Anda gunakan itu) tanpa dikompresi.
+
+
+2. Buatlah sebuah program sederhana dalam Java, berdasarkan spesifikasi soal nomor 1 dan diagram kelas yang telah Anda buat untuk soal nomor 1. 
+
+Petunjuk: 
+- Anda cukup membuat program sampai sebatas proses yang sudah dispesifikasi dalam soal, jangan berlebihan membuatnya (dan jangan sampai kurang juga).
+
+
+
+Anda kami beri waktu sampai hari hari Sabtu, tanggal 22 April 2017 pukul 23.59 WIB, untuk menyelesaikan tugas ini. Bila ada kesulitan atau pertanyaan, segera tanyakan ke kami.
