@@ -1,0 +1,23 @@
+Note Pemograman Java, 
+
+1. Sebelumnya saya minta maaf atas keterlambatan pengumpulan tes Java Ini
+2. Program Java ini saya desain menggunakan Java Swing dengan kemampuan seadanya oleh saya, karena saya sudah cukup lama 
+tidak mengunakan Java sekitar 4 tahun lalu yang terakhir yaitu tugas kuliah. Design database pada program ini tidak sesuai dengan
+class diagram yang saya rancang karena jika saya rancang dengan sesuai maka pengumpulan hasil tes ini akan lebih lama lagi karena kemampuan java swing
+saya cukup kurang.
+3. Pada Sistem ini saya hanya membuat 3 database, walaupun ad form login, itu hanya data statis dengan username : admin, pass admin.
+4. Pada Menu Pemesanan harusnya banyak menggunakan query left join, untuk mengetahui kamar_hotel yang sudah dipesan, namun karena design db saya
+   tidak sesuai dengan class diagram maka saya tidak menggunakan query tersebut.
+5. Untuk desain class diagram saya menggunakan draw.io, jika ingin membukannya maka buka clas_diagram.xml melalui draw.io
+6. semua menu hanya ad fungsi CRUD saja,
+7. Saya mengerjakan aplikasi ini menggunakan Laptop teman saya karena saya belum menginstall IDE netbeans, sehingga authornya bukan nama saya
+8. Sekali lagi saya minta maaf atas keterlambatan pengumpulannnya, 
+
+
+Terimakasih
+
+
+
+Jaka Pratama
+	
+ 
